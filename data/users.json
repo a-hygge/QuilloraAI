@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "email": "demo@ptit.edu.vn",
+    "name": "Nguyễn Văn Demo",
+    "student_id": "B21DCCN001",
+    "birthdate": "2003-05-20",
+    "major": "Công nghệ thông tin",
+    "password_hash": "pbkdf2$qsMehElzxpwqAfNYiux+Ag==$SIrIH0VKIRGY9RCIf6bqS6CaIIFK/8MbOwpDLdUazn8=",
+    "created_at": 1776275851
+  }
+]

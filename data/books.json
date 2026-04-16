@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "title": "Mạng máy tính và Internet",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Mạng & Truyền thông",
+    "difficulty": 3,
+    "cover_url": "https://loremflickr.com/400/560/computer%2Cnetwork%2Ccable?lock=1",
+    "cover_emoji": "📘",
+    "ai_summary": "Khám phá tổng quan về máy tính, mạng Internet, các chiến lược marketing online và bảo mật thông tin cá nhân. Sách cung cấp kiến thức nền tảng cùng kỹ năng thực hành thiết yếu, giúp bạn làm chủ công nghệ trong kỷ nguyên số.",
+    "keywords": [
+      "TCP/IP",
+      "OSI",
+      "mạng",
+      "routing"
+    ],
+    "num_chapters": 30,
+    "source_file": "Mạng máy tính và internet - 2014.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Nhập môn Trí tuệ nhân tạo",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Trí tuệ nhân tạo",
+    "difficulty": 4,
+    "cover_url": "https://books.google.com/books/content?id=geFHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "cover_emoji": "📘",
+    "ai_summary": "Khám phá các nguyên lý cơ bản của Trí tuệ nhân tạo, từ logic vị từ đến thuật toán tìm kiếm thông minh. Đây là tài liệu lý tưởng cho những ai muốn đặt nền móng vững chắc trong lĩnh vực AI.",
+    "keywords": [
+      "AI",
+      "search",
+      "machine learning",
+      "heuristic"
+    ],
+    "num_chapters": 14,
+    "source_file": "Nhập môn trí tuệ nhân tạo - 2015.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Cấu trúc dữ liệu và Giải thuật",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Lập trình cơ bản",
+    "difficulty": 3,
+    "cover_url": "https://books.google.com/books/content?id=0p8bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "cover_emoji": "📘",
+    "ai_summary": "Cẩm nang toàn diện về cấu trúc dữ liệu và giải thuật, từ phân tích, thiết kế đến đánh giá hiệu năng. Bạn sẽ nắm vững các phương pháp xây dựng chương trình tối ưu, với minh họa cụ thể, bài tập và mã nguồn tham khảo.",
+    "keywords": [
+      "mảng",
+      "cây",
+      "đồ thị",
+      "sắp xếp"
+    ],
+    "num_chapters": 30,
+    "source_file": "Cấu trúc dữ liệu và giải thuật - 2013.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Hệ điều hành",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Hệ thống",
+    "difficulty": 4,
+    "cover_url": "https://loremflickr.com/400/560/server%2Ccomputer%2Clinux?lock=4",
+    "cover_emoji": "📘",
+    "ai_summary": "Khám phá cách hệ điều hành quản lý tài nguyên máy tính, từ bộ nhớ, hệ thống file đến đồng bộ hóa tiến trình. Đây là tài liệu nền tảng không thể thiếu cho sinh viên công nghệ thông tin muốn nắm vững kiến thức cốt lõi.",
+    "keywords": [
+      "process",
+      "scheduling",
+      "memory",
+      "file system"
+    ],
+    "num_chapters": 30,
+    "source_file": "Giáo trình hệ điều hành - 2013.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Ngôn ngữ lập trình Java",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Lập trình",
+    "difficulty": 3,
+    "cover_url": "https://books.google.com/books/content?id=uP01mxirRWAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "cover_emoji": "📘",
+    "ai_summary": "Làm chủ ngôn ngữ Java từ những khái niệm lập trình hướng đối tượng cơ bản đến xây dựng giao diện người dùng sống động. Tài liệu này là kim chỉ nam cho sinh viên và lập trình viên muốn phát triển ứng dụng Java hiệu quả.",
+    "keywords": [
+      "Java",
+      "OOP",
+      "JVM",
+      "class"
+    ],
+    "num_chapters": 30,
+    "source_file": "Ngôn ngữ lập trình Java.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Nhập môn Công nghệ phần mềm",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Kỹ nghệ phần mềm",
+    "difficulty": 3,
+    "cover_url": "https://loremflickr.com/400/560/software%2Cdeveloper%2Cteam?lock=6",
+    "cover_emoji": "📘",
+    "ai_summary": "Nắm vững quy trình phát triển phần mềm từ lập kế hoạch, phân tích, thiết kế đến kiểm thử và các mô hình vòng đời. Cẩm nang thiết yếu cho sinh viên IT và những ai muốn xây dựng phần mềm chuyên nghiệp.",
+    "keywords": [
+      "SDLC",
+      "requirement",
+      "design",
+      "testing"
+    ],
+    "num_chapters": 30,
+    "source_file": "Nhập môn công nghệ phần mềm.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Kỹ thuật đồ hoạ",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Đồ hoạ máy tính",
+    "difficulty": 4,
+    "cover_url": "https://books.google.com/books/content?id=d9CPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "cover_emoji": "📘",
+    "ai_summary": "Bản tóm tắt mock — vui lòng cấu hình GEMINI_API_KEY để LibMate tóm tắt thật từ nội dung sách.",
+    "keywords": [
+      "rasterization",
+      "transformation",
+      "OpenGL"
+    ],
+    "num_chapters": 30,
+    "source_file": "Kỹ thuật đồ họa - 2016.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Cơ sở An toàn thông tin",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "An toàn thông tin",
+    "difficulty": 4,
+    "cover_url": "https://books.google.com/books/content?id=E3jTrBwpWPoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "cover_emoji": "📘",
+    "ai_summary": "Khám phá những nguyên tắc cốt lõi để bảo vệ thông tin số, từ kiểm soát truy cập, tường lửa đến các hệ thống phát hiện và ngăn chặn xâm nhập. Sách dành cho sinh viên và những ai muốn xây dựng nền tảng vững chắc về an toàn thông tin.",
+    "keywords": [
+      "mã hoá",
+      "CIA",
+      "TLS",
+      "tấn công"
+    ],
+    "num_chapters": 30,
+    "source_file": "Giáo trình Cơ sở an toàn thông tin - 2018.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Kho dữ liệu & Khai phá dữ liệu",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Dữ liệu lớn",
+    "difficulty": 4,
+    "cover_url": "https://loremflickr.com/400/560/data%2Cchart%2Canalytics?lock=9",
+    "cover_emoji": "📘",
+    "ai_summary": "(Demo mock) Tôi cần GEMINI_API_KEY để trả lời đầy đủ. Dưới đây là ngữ cảnh liên quan nhất mà tôi tìm được trong sách:\n\nCuốn sách: \"Kho dữ liệu & Khai phá dữ liệu\"\n\nDưới đây là một số đoạn trích để bạn tham khảo nội dung:\n---\nĐộ đo trong phân cụm.....................................................................................................",
+    "keywords": [
+      "data warehouse",
+      "OLAP",
+      "clustering",
+      "mining"
+    ],
+    "num_chapters": 30,
+    "source_file": "Kho dữ liệu và khai phá dữ liệu - 2014.pdf"
+  },
+  {
+    "id": 10,
+    "title": "Toán rời rạc 1",
+    "authors": [
+      "PTIT"
+    ],
+    "language": "vi",
+    "category": "Toán học",
+    "difficulty": 3,
+    "cover_url": "https://loremflickr.com/400/560/math%2Cequation%2Cblackboard?lock=10",
+    "cover_emoji": "📘",
+    "ai_summary": "(Demo mock) Tôi cần GEMINI_API_KEY để trả lời đầy đủ. Dưới đây là ngữ cảnh liên quan nhất mà tôi tìm được trong sách:\n\nCuốn sách: \"Toán rời rạc 1\"\n\nDưới đây là một số đoạn trích để bạn tham khảo nội dung:\n---\nCHƢƠNG 1.",
+    "keywords": [
+      "logic",
+      "tập hợp",
+      "đếm",
+      "quan hệ"
+    ],
+    "num_chapters": 30,
+    "source_file": "Toán rời rạc 1 - 2016.pdf"
+  }
+]

@@ -1,0 +1,15 @@
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+data/books.json
+data/chunks.json
+data/generated
+*.md
+!README.md
+.vscode
+.idea

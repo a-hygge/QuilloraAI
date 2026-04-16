@@ -1,0 +1,23 @@
+services:
+  libmate:
+    build: .
+    image: libmate-ai:latest
+    container_name: libmate-ai
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      HOST: 0.0.0.0
+      PORT: "8000"
+      DEBUG: "false"
+    volumes:
+      # Persist ingested books + chunks so re-creates don't lose data
+      - ./data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
